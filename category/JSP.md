@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Web-Back/JSP
+title: Web-Back / JSP
 permalink: '/WEB_BACK/JSP'
 ---
 

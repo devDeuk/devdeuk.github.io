@@ -1,6 +1,6 @@
 ---
 layout: category
-title: DataBase/ORACLE
+title: DataBase / ORACLE
 permalink: '/DB/ORACLE'
 ---
 

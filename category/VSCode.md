@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tool/VSCode
+title: Tool / Visual Studio Code
 permalink: '/TOOL/VSCode'
 ---
 

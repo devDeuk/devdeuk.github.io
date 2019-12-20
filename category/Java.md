@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Language/Java
+title: Language / Java
 permalink: '/LANG/Java'
 ---
 

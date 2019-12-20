@@ -1,6 +1,6 @@
 ---
 layout: category
-title: /Mobile/Android
+title: Mobile / Android
 permalink: '/MOBILE/Android'
 ---
 

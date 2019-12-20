@@ -1,6 +1,6 @@
 ---
 layout: category
-title: DataBase/MariaDB
+title: DataBase / MariaDB
 permalink: '/DB/MariaDB'
 ---
 

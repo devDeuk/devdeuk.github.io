@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Language/Kotlin
+title: Language / Kotlin
 permalink: '/LANG/Kotlin'
 ---
 

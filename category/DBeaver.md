@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tool/DBeaver
+title: Tool / DBeaver
 permalink: '/TOOL/DBeaver'
 ---
 

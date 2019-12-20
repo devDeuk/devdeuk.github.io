@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Web-Back/Servlet
+title: Web-Back / Servlet
 permalink: '/WEB_BACK/Servlet'
 ---
 

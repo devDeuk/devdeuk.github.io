@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tool/Eclipse
+title: Tool / Eclipse
 permalink: '/TOOL/Eclipse'
 ---
 

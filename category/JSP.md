@@ -1,7 +1,7 @@
 ---
 layout: category
-title: DataBase/MySQL
-permalink: '/DB/MySQL'
+title: Web-Back/JSP
+permalink: '/WEB_BACK/JSP'
 ---
 
 Another sample category page.

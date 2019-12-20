@@ -1,7 +1,8 @@
 ---
 layout: category
-title: DataBase/MySQL
-permalink: '/DB/MySQL'
+title: Language/Kotlin
+permalink: '/LANG/Kotlin'
 ---
+
 
 Another sample category page.

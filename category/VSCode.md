@@ -1,7 +1,7 @@
 ---
 layout: category
-title: DataBase/MySQL
-permalink: '/DB/MySQL'
+title: Tool/VSCode
+permalink: '/TOOL/VSCode'
 ---
 
 Another sample category page.

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: DataBase/MySQL
-permalink: '/DB/MySQL'
+title: DataBase/MariaDB
+permalink: '/DB/MariaDB'
 ---
 
 Another sample category page.

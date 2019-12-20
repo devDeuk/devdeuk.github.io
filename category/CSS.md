@@ -1,7 +1,7 @@
 ---
 layout: category
-title: DataBase/MySQL
-permalink: '/DB/MySQL'
+title: Web-Front/CSS
+permalink: '/WEB_FRONT/CSS'
 ---
 
 Another sample category page.

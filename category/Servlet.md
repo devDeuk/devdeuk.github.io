@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Data Science/R programming
-permalink: '/DS/R'
+title: Web-Back/Servlet
+permalink: '/WEB_BACK/Servlet'
 ---
 
 Another sample category page.

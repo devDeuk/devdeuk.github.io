@@ -1,8 +1,7 @@
 ---
 layout: category
-title: Mobile/Android
-permalink: '/MOBILE/Android'
+title: ETC / Rasiberry
+permalink: '/ETC/Rasiberry'
 ---
-
 
 Another sample category page.

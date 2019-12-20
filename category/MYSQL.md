@@ -1,6 +1,6 @@
 ---
 layout: category
-title: DataBase / MySQL
+title: DataBase/MySQL
 permalink: '/DB/MySQL'
 ---
 

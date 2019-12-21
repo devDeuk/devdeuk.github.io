@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Web-Front / JQuery
+title: Web-Front/JQuery
 permalink: '/WEB_FRONT/JQuery'
 ---
 

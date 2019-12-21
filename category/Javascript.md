@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Web-Front / Javascript
+title: Web-Front/Javascript
 permalink: '/WEB_FRONT/Javascript'
 ---
 

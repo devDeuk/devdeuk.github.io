@@ -1,6 +1,6 @@
 ---
 layout: category
-title: My / Issues
+title: My/Issues
 permalink: '/My/Issues'
 ---
 

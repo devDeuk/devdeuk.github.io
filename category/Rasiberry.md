@@ -1,6 +1,6 @@
 ---
 layout: category
-title: ETC / Rasiberry
+title: ETC/Rasiberry
 permalink: '/ETC/Rasiberry'
 ---
 

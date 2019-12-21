@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Web-Front / CSS
+title: Web-Front/CSS
 permalink: '/WEB_FRONT/CSS'
 ---
 

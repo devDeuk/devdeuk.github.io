@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tool / AndroidStudio
+title: Tool/AndroidStudio
 permalink: '/TOOL/AndroidStudio'
 ---
 

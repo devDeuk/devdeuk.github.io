@@ -1,6 +1,6 @@
 ---
 layout: category
-title: My / Today
+title: My/Today
 permalink: '/My/Today'
 ---
 

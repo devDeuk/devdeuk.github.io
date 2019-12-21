@@ -2,8 +2,8 @@
 layout: post
 title: Kotlin Post 첫페이지
 comments: true
-categories: [LANG/Kotlin]
-tags: [Language , Kotlin]
+categories: [Language/Kotlin]
+tags: [kotlin]
 ---
 
 # Kotlin START

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Mobile/Android
-permalink: '/MOBILE/Android'
+permalink: '/Mobile/Android'
 ---
 
 

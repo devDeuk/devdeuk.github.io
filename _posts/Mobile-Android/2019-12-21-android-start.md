@@ -2,7 +2,7 @@
 layout: post
 title: Android 첫페이지 
 comments: true
-categories : [MOBILE/Android]
+categories : [Mobile/Android]
 tags: [Android]
 ---
 

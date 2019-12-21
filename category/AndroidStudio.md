@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tool/AndroidStudio
-permalink: '/TOOL/AndroidStudio'
+permalink: '/Tool/AndroidStudio'
 ---
 
 Another sample category page.

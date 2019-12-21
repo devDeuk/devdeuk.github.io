@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tool/DBeaver
-permalink: '/TOOL/DBeaver'
+permalink: '/Tool/DBeaver'
 ---
 
 Another sample category page.

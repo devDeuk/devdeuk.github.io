@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tool/Eclipse
-permalink: '/TOOL/Eclipse'
+permalink: '/Tool/Eclipse'
 ---
 
 Another sample category page.

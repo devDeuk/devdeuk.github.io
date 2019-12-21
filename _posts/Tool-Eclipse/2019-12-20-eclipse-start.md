@@ -2,7 +2,7 @@
 layout: post
 title: Eclipose 첫페이지 
 comments: true
-categories : [TOOL/Eclipse]
+categories : [Tool/Eclipse]
 tags: [Eclipse] 
 ---
 

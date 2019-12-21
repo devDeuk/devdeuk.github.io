@@ -2,7 +2,7 @@
 layout: post
 title: VSCode 첫페이지 
 comments: true
-categories : [TOOL/VSCode]
+categories : [Tool/VSCode]
 tags: [VSCode] 
 ---
 

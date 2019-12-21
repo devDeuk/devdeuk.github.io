@@ -2,7 +2,7 @@
 layout: post
 title: AndroidStudio 첫페이지 
 comments: true
-categories : [TOOL/AndroidStudio]
+categories : [Tool/AndroidStudio]
 tags: [AndroidStudio] 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Web-Front/HTML
-permalink: '/WEB_FRONT/HTML'
+title: Web-Front/CSS
+permalink: '/WEB_FRONT/CSS'
 ---
 
 Another sample category page.

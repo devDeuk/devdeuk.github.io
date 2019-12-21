@@ -2,7 +2,7 @@
 layout: post
 title: Kotlin Post 첫페이지
 comments: true
-categories: [Language/Kotlin]
+categories: [LANG/Kotlin]
 tags: [Language , Kotlin]
 ---
 

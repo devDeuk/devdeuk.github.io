@@ -2,7 +2,7 @@
 layout: post
 title: JAVA Post 첫페이지
 comments: true
-categories: [Language/Java]
+categories: [LANG/Java]
 tags: [Language, JAVA, JAVA시작하기]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Tool / Visual Studio Code
-permalink: '/TOOL/VSCode'
+title: ETC/Term
+permalink: '/ETC/Term'
 ---
 
 Another sample category page.
